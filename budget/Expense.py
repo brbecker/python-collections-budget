@@ -1,8 +1,6 @@
 import csv
 from datetime import datetime
 
-from matplotlib.pyplot import xcorr
-
 
 class Expense:
     def __init__(self, date_str, vendor, category, amount):
