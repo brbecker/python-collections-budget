@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 
 from . import Expense
-import budget
 
 
 class BudgetList:
